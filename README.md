@@ -1,4 +1,4 @@
-# Aira kit base pics
+# Eliza pic pack
 
 **Adult / NSFW stills** for the Aira Domme kit install (PNG plates).
 
@@ -31,3 +31,5 @@ Point the Domme kit `stock-gens` / PIC_POOL at this repo (clone or release downl
 ## License / age
 
 18+ only. You are responsible for local law. No minors. Not for redistribution as “safe for work.”
+
+Repo: `toyzer0/eliza_pic_pack` — Domme kit base stills.
