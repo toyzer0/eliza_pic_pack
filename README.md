@@ -33,3 +33,6 @@ Point the Domme kit `stock-gens` / PIC_POOL at this repo (clone or release downl
 18+ only. You are responsible for local law. No minors. Not for redistribution as “safe for work.”
 
 Repo: `toyzer0/eliza_pic_pack` — Domme kit base stills.
+
+## Removed
+- `oc_alpha/body-lang__kr_b03.png` (+ fix-b03 variants) — malformed soft-chest lean (Maker 2026-09-10).
